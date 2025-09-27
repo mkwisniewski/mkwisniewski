@@ -1,6 +1,6 @@
 ### Hi, I'm Mariusz 👋👨‍💻
 
-I'm a passionate software engineer with expertise in C++, Python, and machine learning. I specialize in developing high-performance backend systems and AI-driven projects. Currently, I work as a Software Engineer at [u-blox](https://u-blox.com/), where I develop C++ drivers for market-leading GNSS receivers.
+I'm a passionate software engineer with expertise in C++, Python, and machine learning. I specialize in developing high-performance backend systems and AI-driven projects. Currently, I work as a Software Engineer at [u-blox](https://u-blox.com/), where I develop Android, Linux, and Windows drivers for market-leading GNSS receivers.
 
 I hold a double Master's degree in Computer Science and Engineering from [Politecnico di Milano](https://polimi.it/en/) and [Wrocław University of Science and Technology](https://pwr.edu.pl/en/).
 
